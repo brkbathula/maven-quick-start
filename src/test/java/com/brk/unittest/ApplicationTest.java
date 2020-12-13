@@ -1,8 +1,11 @@
-package com.brk.training;
+package com.brk.unittest;
 
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
+
+import com.brk.training.Application;
+
 import static org.junit.Assert.*;
 
 public class ApplicationTest {
